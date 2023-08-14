@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **chatbot development**
 
-- 💬 Ask me about **Java, C#**
+- 💬 Ask me about **React Native, React, Swift, C#**
 
 - 📫 How to reach me **marciocurvello@gmail.com**
 
